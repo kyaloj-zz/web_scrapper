@@ -1,0 +1,5 @@
+require 'Nokogiri'
+require 'JSON'
+require 'HTTParty'
+require 'csv'
+require 'pry'
